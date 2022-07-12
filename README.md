@@ -1,5 +1,5 @@
-# ship_game
-A simple game made in pygame. You steer a spaceship and shoot enemy ships. The goal of the game is to earn as many points as you can without dying.
+# shooting_ship_game
+A bit less simple game made in pygame. You steer a spaceship and shoot enemy ships. The goal of the game is to earn as many points as you can without dying.
 The game gets harder after every stage but you also get more points and become more powerful.
 
 The game only works for Windows!!
